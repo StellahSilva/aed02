@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1684540003 source:c:\users\55929\aed02\aed02\lista02\bolha.c
+	<stdio.h>
+	<stdlib.h>
+	"bolha.h"
+
+1684539643 source:c:\users\55929\aed02\aed02\lista02\insercao.c
+	<stdio.h>
+	<stdlib.h>
+	"insercao.h"
+
+1684540191 c:\users\55929\aed02\aed02\lista02\insercao.h
+
+1684520202 source:c:\users\55929\aed02\aed02\lista02\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1684520293 c:\users\55929\aed02\aed02\lista02\ordenacao.h
+
+1684546048 source:c:\users\55929\aed02\aed02\lista02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bolha.h"
+	"insercao.h"
+	"selecao.h"
+
+1684540172 c:\users\55929\aed02\aed02\lista02\bolha.h
+
+1684540196 c:\users\55929\aed02\aed02\lista02\selecao.h
+
+1684548010 source:c:\users\55929\aed02\aed02\lista02\selecao.c
+	<stdio.h>
+	<stdlib.h>
+	"selecao.h"
+
