@@ -18,12 +18,14 @@
 
 1684520293 c:\users\55929\aed02\aed02\lista02\ordenacao.h
 
-1684552974 source:c:\users\55929\aed02\aed02\lista02\main.c
+1684554014 source:c:\users\55929\aed02\aed02\lista02\main.c
 	<stdio.h>
 	<stdlib.h>
 	"bolha.h"
 	"insercao.h"
 	"selecao.h"
+	"quicksort.h"
+	"mergesort.h"
 
 1684540172 c:\users\55929\aed02\aed02\lista02\bolha.h
 
@@ -40,12 +42,12 @@
 	<math.h>
 	"mergesort.h"
 
-1684549032 c:\users\55929\aed02\aed02\lista02\mergesort.h
+1684554378 c:\users\55929\aed02\aed02\lista02\mergesort.h
 
 1684553884 source:c:\users\55929\aed02\aed02\lista02\quicksort.c
 	<stdio.h>
 	<stdlib.h>
 	"quicksort.h"
 
-1684549028 c:\users\55929\aed02\aed02\lista02\quicksort.h
+1684554386 c:\users\55929\aed02\aed02\lista02\quicksort.h
 
