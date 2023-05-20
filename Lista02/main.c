@@ -3,8 +3,10 @@
 #include "bolha.h"
 #include "insercao.h"
 #include "selecao.h"
+#include "quicksort.h"
+#include "mergesort.h"
 
 int main()
 {
-    selecao();
+    mergesort();
 }

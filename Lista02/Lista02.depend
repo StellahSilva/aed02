@@ -4,7 +4,7 @@
 	<stdlib.h>
 	"bolha.h"
 
-1684539643 source:c:\users\55929\aed02\aed02\lista02\insercao.c
+1684548080 source:c:\users\55929\aed02\aed02\lista02\insercao.c
 	<stdio.h>
 	<stdlib.h>
 	"insercao.h"
@@ -18,7 +18,7 @@
 
 1684520293 c:\users\55929\aed02\aed02\lista02\ordenacao.h
 
-1684546048 source:c:\users\55929\aed02\aed02\lista02\main.c
+1684552974 source:c:\users\55929\aed02\aed02\lista02\main.c
 	<stdio.h>
 	<stdlib.h>
 	"bolha.h"
@@ -29,8 +29,23 @@
 
 1684540196 c:\users\55929\aed02\aed02\lista02\selecao.h
 
-1684548010 source:c:\users\55929\aed02\aed02\lista02\selecao.c
+1684548186 source:c:\users\55929\aed02\aed02\lista02\selecao.c
 	<stdio.h>
 	<stdlib.h>
 	"selecao.h"
+
+1684552953 source:c:\users\55929\aed02\aed02\lista02\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"mergesort.h"
+
+1684549032 c:\users\55929\aed02\aed02\lista02\mergesort.h
+
+1684553884 source:c:\users\55929\aed02\aed02\lista02\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	"quicksort.h"
+
+1684549028 c:\users\55929\aed02\aed02\lista02\quicksort.h
 
